@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Douglas Sales🤗
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dgsales7.github.io/portfolio_teste/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dgsales7)
 
 ![dGsales7 GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsales7&show_icons=true&theme=radical)
