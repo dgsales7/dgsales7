@@ -18,9 +18,10 @@ Tenho muito interesse em criar soluções escaláveis, eficientes e bem estrutur
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="git logo" />
 </div>
 
-#📚 Interest/Study
-<img src="https://img.shields.io/static/v1?message=AI&logo=ibm&label=Artificial%20Intelligence&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ai logo" />
-<img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="react logo" />
-<img src="https://img.shields.io/static/v1?message=Kotlin&logo=kotlin&label=&color=7F52FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="kotlin logo" />
-
+# 📚 Interest/Study
+<div align="left">
+ <img src="https://img.shields.io/static/v1?message=AI&logo=ibm&label=Artificial%20Intelligence&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ai logo" />
+ <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="react logo" />
+ <img src="https://img.shields.io/static/v1?message=Kotlin&logo=kotlin&label=&color=7F52FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="kotlin logo" />
+</div>
 
