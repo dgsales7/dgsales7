@@ -37,7 +37,8 @@ Tenho muito interesse em criar soluções escaláveis, eficientes e bem estrutur
 </div>
 
 # I'm in love with everything ❤
-![descrição](https://camo.githubusercontent.com/ca32305090aa4a2880028e35137d97e44bb4ebd5f10244936e95a3f24417d15f/68747470733a2f2f692e696d6775722e636f6d2f594b6a4d3061702e676966)
+<img src="https://camo.githubusercontent.com/ca32305090aa4a2880028e35137d97e44bb4ebd5f10244936e95a3f24417d15f/68747470733a2f2f692e696d6775722e636f6d2f594b6a4d3061702e676966" width="200" />
+
 
 
 
