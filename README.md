@@ -26,3 +26,14 @@ Tenho muito interesse em criar soluções escaláveis, eficientes e bem estrutur
  <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="c# logo" />
 </div>
 
+# 🌐 Socials
+<div align="left">
+  <a href="https://www.instagram.com/dgsales7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-sales7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+
