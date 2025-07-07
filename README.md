@@ -42,7 +42,8 @@ Tenho muito interesse em criar soluções escaláveis, eficientes e bem estrutur
 
 # 🐍 Snake game contribution grid
 
-![snake gif](https://github.com/dgsales7/dgsales7/blob/output/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/dgsales7/dgsales7/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
