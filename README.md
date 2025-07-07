@@ -40,7 +40,6 @@ Tenho muito interesse em criar soluções escaláveis, eficientes e bem estrutur
 <img src="https://camo.githubusercontent.com/ca32305090aa4a2880028e35137d97e44bb4ebd5f10244936e95a3f24417d15f/68747470733a2f2f692e696d6775722e636f6d2f594b6a4d3061702e676966" width="600" />
 
 
-# 🐍 Snake game contribution grid
 
 ![snake gif dark](https://github.com/dgsales7/dgsales7/blob/output/github-contribution-grid-snake-dark.svg)
 
