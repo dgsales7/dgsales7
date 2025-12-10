@@ -1,5 +1,5 @@
 # 👋 Hi there
-Olá, me chamo Douglas, sou natural do RJ . Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e trabalho como jovem aprendiz de TI, atuando com suporte técnico, manutenção de computadores e redes. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais.
+Olá, me chamo Douglas, sou natural do RJ . Atualmente sou estudante de Engenharia de Software e trabalho como jovem aprendiz de TI, atuando com suporte técnico, manutenção de computadores e redes. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais.
 
 Aqui no GitHub compartilho meus projetos, estudos e evoluções nessa jornada de aprendizado constante.
 
