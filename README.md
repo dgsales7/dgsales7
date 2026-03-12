@@ -41,13 +41,13 @@ No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, 
 
 # 📌 Featured Projects
 
-🔹 Java Movie System  
-Sistema desenvolvido em Java para gerenciamento de filmes.
+🎬  Movie Catalog(https://github.com/dgsales7/java-movie-system)  
+Aplicação web para busca de filmes utilizando API externa, com sistema de login, cadastro e lista de favoritos.
 
-🔹 Login System  
-Sistema de autenticação com cadastro e login utilizando Java e banco de dados.
+🔐  Java Login System    
+Sistema de login e cadastro desenvolvido em Java com interface gráfica e integração com banco de dados.
 
-🔹 CRUD Java + MySQL  
+💾 CRUD Java + MySQL  
 Aplicação com operações de criação, leitura, atualização e exclusão de dados.
 
 # 🌐 Socials
