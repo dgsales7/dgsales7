@@ -22,21 +22,21 @@ No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, 
 # 💻 Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Java&logo=java&color=007396&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&color=E34F26&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&color=1572B6&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&color=F7DF1E&logoColor=black&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&color=4479A1&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&color=F05032&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 # 📚 Interest / Study
 
 <div align="left">
- <img src="https://img.shields.io/static/v1?message=Artificial%20Intelligence&logo=ibm&color=000000&logoColor=white&style=for-the-badge" height="25"/>
- <img src="https://img.shields.io/static/v1?message=React&logo=react&color=61DAFB&logoColor=black&style=for-the-badge" height="25"/>
- <img src="https://img.shields.io/static/v1?message=Kotlin&logo=kotlin&color=7F52FF&logoColor=white&style=for-the-badge" height="25"/>
- <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&color=239120&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
 # 📌 Featured Projects
