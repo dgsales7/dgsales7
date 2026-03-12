@@ -39,6 +39,17 @@ No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, 
  <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&color=239120&logoColor=white&style=for-the-badge" height="25"/>
 </div>
 
+# 📌 Featured Projects
+
+🔹 Java Movie System  
+Sistema desenvolvido em Java para gerenciamento de filmes.
+
+🔹 Login System  
+Sistema de autenticação com cadastro e login utilizando Java e banco de dados.
+
+🔹 CRUD Java + MySQL  
+Aplicação com operações de criação, leitura, atualização e exclusão de dados.
+
 # 🌐 Socials
 
 <div align="left">
