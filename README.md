@@ -41,7 +41,7 @@ No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, 
 
 # 📌 Featured Projects
 
-🎬  Movie Catalog(https://github.com/dgsales7/java-movie-system)  
+🎬  Movie Catalog (https://github.com/dgsales7/java-movie-system)  
 Aplicação web para busca de filmes utilizando API externa, com sistema de login, cadastro e lista de favoritos.
 
 🔐  Java Login System    
