@@ -49,4 +49,5 @@ No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
+
 ![snake gif dark](https://github.com/dgsales7/dgsales7/blob/output/github-contribution-grid-snake-dark.svg)
