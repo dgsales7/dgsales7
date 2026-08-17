@@ -13,13 +13,13 @@ Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de
 
 # 🚀 Expertise
 
-Atualmente estou me especializando em desenvolvimento **Back-end**, com foco principal em **Java e Spring Boot**.
+Estou me especializando em desenvolvimento **Back-end**, com foco principal em **Java e Spring Boot**.
 
 Tenho conhecimentos em **Programação Orientada a Objetos, APIs REST, JPA/Hibernate, JDBC, SQL, Git e GitHub**, além de experiência prática no desenvolvimento de aplicações e integração com bancos de dados.
 
 Também possuo conhecimentos em **HTML, CSS e JavaScript**, o que me permite compreender a integração entre front-end e back-end.
 
-Atualmente estou aprofundando meus conhecimentos em **Spring Boot, APIs REST, banco de dados, boas práticas de programação e desenvolvimento de aplicações back-end**.
+No momento, estou aprofundando meus conhecimentos em **Spring Boot, APIs REST, banco de dados, boas práticas de programação e desenvolvimento de aplicações back-end**.
 
 Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas**, buscando evoluir continuamente como desenvolvedor.
 
@@ -48,8 +48,6 @@ Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas
 # 📚 Interest / Study
 
 <div align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
