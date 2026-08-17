@@ -1,54 +1,91 @@
 # 👋 Hi there
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software
 💻 Desenvolvedor Back-end Java em formação
-📍 Rio de Janeiro, Brasil  
+📍 Rio de Janeiro, Brasil
 
-Atualmente trabalho como jovem aprendiz de TI, atuando com suporte técnico, manutenção de computadores e redes.  
-Tenho interesse em desenvolvimento back-end e estou constantemente estudando e desenvolvendo projetos para evoluir minhas habilidades em programação.
+Sou estudante de Engenharia de Software com foco em desenvolvimento **back-end utilizando Java e Spring Boot**.
+Possuo experiência profissional na área de TI, atuando com suporte técnico, manutenção de computadores, atendimento de chamados e infraestrutura.
 
-Aqui no GitHub compartilho meus projetos, estudos e minha evolução nessa jornada de aprendizado constante.
+Tenho interesse em desenvolvimento de software e estou constantemente estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação.
+
+Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de desenvolvimento de software.
 
 # 🚀 Expertise
 
-Atualmente estou me especializando em desenvolvimento back-end, com foco principal na linguagem **Java**.  
-Tenho uma boa base em **HTML, CSS e JavaScript**, o que me permite entender melhor a integração entre front-end e back-end.
+Atualmente estou me especializando em desenvolvimento **Back-end**, com foco principal em **Java e Spring Boot**.
 
-Além disso, estou sempre buscando aprimorar meus conhecimentos em **banco de dados** e **boas práticas de programação**.
+Tenho conhecimentos em **Programação Orientada a Objetos, APIs REST, JPA/Hibernate, JDBC, SQL, Git e GitHub**, além de experiência prática no desenvolvimento de aplicações e integração com bancos de dados.
 
-Tenho grande interesse em criar soluções **escaláveis, eficientes e bem estruturadas**.  
-No futuro, pretendo expandir minhas habilidades aprendendo **Kotlin** e **C#**, além de aprofundar meus estudos em **segurança da informação**.
+Também possuo conhecimentos em **HTML, CSS e JavaScript**, o que me permite compreender a integração entre front-end e back-end.
+
+Atualmente estou aprofundando meus conhecimentos em **Spring Boot, APIs REST, banco de dados, boas práticas de programação e desenvolvimento de aplicações back-end**.
+
+Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas**, buscando evoluir continuamente como desenvolvedor.
 
 # 💻 Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+# 🌐 Front-end
+
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 # 📚 Interest / Study
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </div>
 
 # 📌 Featured Projects
 
-🎬  Movie Catalog (https://github.com/dgsales7/java-movie-system)  
+### 👤 Cadastro de Usuários API
+
+API REST desenvolvida com **Java e Spring Boot** para cadastro e gerenciamento de usuários.
+
+Utiliza **JPA/Hibernate** para persistência de dados e banco de dados **H2**.
+
+Principais funcionalidades:
+
+* Cadastro de usuários
+* Busca por ID, e-mail e telefone
+* Atualização de usuários
+* Exclusão de usuários
+* Arquitetura em camadas com Controller, Service e Repository
+
+🔗 Repositório: [Cadastro de Usuários API](https://github.com/dgsales7/cadastro-usuarios-api)
+
+### 🎬 Movie Catalog
+
 Aplicação web para busca de filmes utilizando API externa, com sistema de login, cadastro e lista de favoritos.
 
-🔐  Java Login System    
-Sistema de login e cadastro desenvolvido em Java com interface gráfica e integração com banco de dados.
+🔗 Repositório: [Movie Catalog](https://github.com/dgsales7/java-movie-system)
 
-💾 CRUD Java + MySQL  
-Aplicação com operações de criação, leitura, atualização e exclusão de dados.
+### 🔐 Java Login System
+
+Sistema de login e cadastro desenvolvido em **Java**, utilizando **Swing** para interface gráfica e **JDBC** para integração com banco de dados.
+
+### 💾 CRUD Java + MySQL
+
+Aplicação desenvolvida em Java com operações de **criação, leitura, atualização e exclusão de dados**, utilizando banco de dados MySQL.
 
 # 🌐 Socials
 
