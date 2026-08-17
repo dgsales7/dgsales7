@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Back-end Java em formação 
+💻 Desenvolvedor Back-end Java em formação
 📍 Rio de Janeiro, Brasil  
 
 Atualmente trabalho como jovem aprendiz de TI, atuando com suporte técnico, manutenção de computadores e redes.  
