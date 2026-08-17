@@ -71,7 +71,7 @@ Principais funcionalidades:
 * Exclusão de usuários
 * Arquitetura em camadas com Controller, Service e Repository
 
-🔗 Repositório: [Cadastro de Usuários API](https://github.com/dgsales7/cadastro-usuarios-api)
+🔗 Repositório: [Cadastro de Usuários API](https://github.com/dgsales7/cadastro-usuario-java)
 
 ### 🎬 Movie Catalog
 
