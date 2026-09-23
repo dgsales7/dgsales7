@@ -1,29 +1,35 @@
-# 👋 Hi there
+# 👋 Olá, eu sou Douglas Sales!
 
-🎓 Estudante de Engenharia de Software
-💻 Desenvolvedor Back-end Java em formação
-📍 Rio de Janeiro, Brasil
+🎓 Estudante de Engenharia de Software               
+💻 Profissional de TI | Java & Spring Boot              
+🌐 Explorando Infraestrutura, Redes e Cloud                  
+📍 Rio de Janeiro, Brasil 
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento **back-end utilizando Java e Spring Boot**.
-Possuo experiência profissional na área de TI, atuando com suporte técnico, manutenção de computadores, atendimento de chamados e infraestrutura.
+Sou estudante de **Engenharia de Software** e profissional de TI, com experiência em suporte técnico, atendimento de chamados, manutenção de computadores e suporte aos usuários.
 
-Tenho interesse em desenvolvimento de software e estou constantemente estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação.
+Possuo conhecimentos em desenvolvimento back-end com **Java, Spring Boot, APIs REST e bancos de dados**, além de estar ampliando minha formação na área de infraestrutura de TI, redes e computação em nuvem.
 
-Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de desenvolvimento de software.
+Atualmente, busco fortalecer meus conhecimentos técnicos por meio de estudos, projetos práticos e experiências profissionais, explorando diferentes caminhos dentro da tecnologia.
 
-# 🚀 Expertise
+Aqui no GitHub, compartilho meus projetos, estudos e minha evolução na área de TI e desenvolvimento de software.
 
-Estou me especializando em desenvolvimento **Back-end**, com foco principal em **Java e Spring Boot**.
+---
 
-Tenho conhecimentos em **Programação Orientada a Objetos, APIs REST, JPA/Hibernate, JDBC, SQL, Git e GitHub**, além de experiência prática no desenvolvimento de aplicações e integração com bancos de dados.
+# 🚀 Sobre mim
 
-Também possuo conhecimentos em **HTML, CSS e JavaScript**, o que me permite compreender a integração entre front-end e back-end.
+* 🎓 Estudante de Engenharia de Software
+* 💼 Experiência profissional em suporte técnico e TI
+* ☕ Conhecimentos em Java e desenvolvimento back-end
+* 🌐 Interesse em infraestrutura, redes e cloud computing
+* 📚 Aprendizado contínuo por meio de cursos e projetos práticos
 
-No momento, estou aprofundando meus conhecimentos em **Spring Boot, APIs REST, banco de dados, boas práticas de programação e desenvolvimento de aplicações back-end**.
+---
 
-Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas**, buscando evoluir continuamente como desenvolvedor.
+# 💻 Desenvolvimento Back-end
 
-# 💻 Tech Stack
+Possuo conhecimentos em desenvolvimento de aplicações utilizando Java, com foco em programação orientada a objetos, APIs REST e integração com bancos de dados.
+
+### Tecnologias e conhecimentos
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,7 +43,19 @@ Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+* Programação Orientada a Objetos (POO)
+* APIs REST
+* Arquitetura em camadas
+* JPA / Hibernate
+* JDBC
+* SQL e bancos de dados relacionais
+* Controle de versão com Git e GitHub
+
+---
+
 # 🌐 Front-end
+
+Possuo conhecimentos básicos em tecnologias front-end, compreendendo os fundamentos de estruturação, estilização e interatividade de páginas web.
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,47 +63,84 @@ Tenho interesse em criar soluções **eficientes, organizadas e bem estruturadas
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-# 📚 Interest / Study
+---
+
+# 🖥️ Infraestrutura, Redes e Cloud
+
+Tenho interesse em ampliar meus conhecimentos na área de infraestrutura de TI, com foco em redes de computadores, administração de sistemas e computação em nuvem.
+
+### Áreas de interesse e estudo
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-1677FF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
-# 📌 Featured Projects
+* Arquitetura de redes
+* Infraestrutura de TI
+* Administração de servidores e serviços de rede
+* Computação em nuvem (Cloud Computing)
+* AWS
+* Virtualização e containers
+
+> As tecnologias acima representam áreas de interesse e estudo. A experiência prática e o nível de domínio de cada tecnologia variam conforme os projetos e os estudos realizados.
+
+---
+
+# 📚 Em estudo
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</div>
+
+* Spring Security
+* Testes automatizados com JUnit
+* Docker
+* Redes de computadores
+* Fundamentos de AWS e cloud computing
+
+---
+
+# 📌 Projetos em destaque
 
 ### 👤 Cadastro de Usuários API
 
 API REST desenvolvida com **Java e Spring Boot** para cadastro e gerenciamento de usuários.
 
-Utiliza **JPA/Hibernate** para persistência de dados e banco de dados **H2**.
+**Tecnologias:** Java, Spring Boot, JPA/Hibernate e H2.
 
-Principais funcionalidades:
+Funcionalidades:
 
 * Cadastro de usuários
 * Busca por ID, e-mail e telefone
 * Atualização de usuários
 * Exclusão de usuários
-* Arquitetura em camadas com Controller, Service e Repository
+* Arquitetura em camadas (Controller, Service e Repository)
 
-🔗 Repositório: [Cadastro de Usuários API](https://github.com/dgsales7/cadastro-usuario-java)
+🔗 [Repositório — Cadastro de Usuários API](https://github.com/dgsales7/cadastro-usuario-java)
 
 ### 🎬 Movie Catalog
 
-Aplicação web para busca de filmes utilizando API externa, com sistema de login, cadastro e lista de favoritos.
+Aplicação web para busca de filmes utilizando uma API externa, com funcionalidades de autenticação, cadastro e gerenciamento de filmes favoritos.
 
-🔗 Repositório: [Movie Catalog](https://github.com/dgsales7/java-movie-system)
+🔗 [Repositório — Movie Catalog](https://github.com/dgsales7/java-movie-system)
 
 ### 🔐 Java Login System
 
-Sistema de login e cadastro desenvolvido em **Java**, utilizando **Swing** para interface gráfica e **JDBC** para integração com banco de dados.
+Sistema de login e cadastro desenvolvido em Java, utilizando Swing para a interface gráfica e JDBC para integração com banco de dados.
 
 ### 💾 CRUD Java + MySQL
 
-Aplicação desenvolvida em Java com operações de **criação, leitura, atualização e exclusão de dados**, utilizando banco de dados MySQL.
+Aplicação desenvolvida em Java com operações de criação, leitura, atualização e exclusão de dados utilizando banco de dados MySQL.
 
-# 🌐 Socials
+---
+
+# 🌐 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.instagram.com/dgsales7/" target="_blank">
@@ -95,5 +150,7 @@ Aplicação desenvolvida em Java com operações de **criação, leitura, atuali
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
+
+---
 
 ![snake gif dark](https://github.com/dgsales7/dgsales7/blob/output/github-contribution-grid-snake-dark.svg)
